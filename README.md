@@ -1,4 +1,3 @@
-# Human-Facial-Emotions-Detection-Using-Deep-Learning-CNN-Python
 # 💫 About Me:
 It's a deep learning–based system developed in Python that detects human facial emotions from images and live webcam input using a Convolutional Neural Network (CNN). The project utilizes TensorFlow/Keras, OpenCV, MTCNN, and Flask to perform face detection, emotion classification, and real-time web-based visualization... I enjoy solving complex problems and continuously improving my technical skills through practical projects.<br>
 
@@ -18,7 +17,7 @@ It's a deep learning–based system developed in Python that detects human facia
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🛒 Vegetable Online Shopping Website – UI Preview
+## Human-Facial-Emotions-Detection-Using-Deep-Learning-CNN-Python– UI Preview
 
 <img src="https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main/af.png" width="600">
 <img src="https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main/ag.png" width="600">
