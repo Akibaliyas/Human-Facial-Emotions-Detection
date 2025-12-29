@@ -1,6 +1,6 @@
 # Human-Facial-Emotions-Detection-Using-Deep-Learning-CNN-Python
 # 💫 About Me:
-It's a web-based vegetable online shopping website using HTML, CSS, and JavaScript. The platform allows users to browse fresh vegetables, view prices, and place orders through a simple and user-friendly interface.. I enjoy solving complex problems and continuously improving my technical skills through practical projects.<br>
+It's a deep learning–based system developed in Python that detects human facial emotions from images and live webcam input using a Convolutional Neural Network (CNN). The project utilizes TensorFlow/Keras, OpenCV, MTCNN, and Flask to perform face detection, emotion classification, and real-time web-based visualization... I enjoy solving complex problems and continuously improving my technical skills through practical projects.<br>
 
 
 # 💻 Tech Stack:
