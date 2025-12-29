@@ -21,9 +21,9 @@ It's a deep learning–based system developed in Python that detects human facia
 ## 🛒 Vegetable Online Shopping Website – UI Preview
 
 <img src="https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main/af.png" width="600">
-<img src="https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/ag.png" width="600">
-
-https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main
+<img src="https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main/ag.png" width="600">
 
 
-https://github.com/Akibaliyas/Human-Facial-Emotions-Detection/blob/main
+
+
+
